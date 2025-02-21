@@ -171,7 +171,6 @@ aside {
 aside ul {
     list-style-position: inside;
     columns: 2;
-    list-style-type: '\🗸\0020\0020';
 }
 
 aside h3 {
